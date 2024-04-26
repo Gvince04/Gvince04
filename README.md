@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gvince04
 - 👀 I’m interested in Software Developement
 - 🌱 I’m currently learning at University of Szeged
-- 📫 You can reach me on e-mal at: giriczvince04@gmail.com
+- 📫 You can reach me via e-mail at: giriczvince04@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
